@@ -1,0 +1,8 @@
+.head_line {
+    margin-top: 1em;
+    display: flex;
+    justify-content: center;
+}
+.head_line svg {
+    width: 430px;
+}
